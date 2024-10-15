@@ -15,8 +15,6 @@ Virtual Environment (recommended)
 Dependencies
 You can install the required dependencies by running:
 
-bash
-Copy code
 pip install -r requirements.txt
 The key dependencies include:
 
